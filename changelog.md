@@ -6,3 +6,4 @@
 - Ustvarjena datoteka CODEOWNERS.
 - Nastavljena zaščita glavne veje (Pull Request in Code Owner review).
 - Ustvarjena prva izdaja Release v1.0.0.
+- B: Dodan index.html in kontakt.html
