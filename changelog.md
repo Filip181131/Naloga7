@@ -7,3 +7,9 @@
 - Nastavljena zaščita glavne veje (Pull Request in Code Owner review).
 - Ustvarjena prva izdaja Release v1.0.0.
 - B: Dodan index.html in kontakt.html
+
+
+
+  ##spremembe - C
+  - Dodana datoteka testni_scenariji.md
+  - Dodani kontaktni podatki v kontakt.html
