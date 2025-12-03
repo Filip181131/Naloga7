@@ -1,4 +1,4 @@
-# Projekt Naloga7
+# Naloga7
 
 ## Glavne funkcionalnosti spletne strani
 
